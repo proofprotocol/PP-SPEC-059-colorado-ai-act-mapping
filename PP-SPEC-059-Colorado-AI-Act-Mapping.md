@@ -126,7 +126,7 @@ SB 24-205 and SB 26-189 are public law of the State of Colorado, enacted by the 
 
 Implementation status is stated in section 1, including the items that could not be confirmed from official sources. The official publication terms for the Colorado Revised Statutes SHOULD be checked at the authoritative source before reproducing statutory text.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. That license applies only to original Proof Protocol material in this repository. It does not relicense external standards, regulations, criteria, frameworks, or trademarks.
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
